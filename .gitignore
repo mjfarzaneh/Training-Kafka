@@ -1,4 +1,5 @@
 HELP.md
-mvnw*
+mvnw
+mvnw.cmd
 /.idea
 /target
