@@ -1,5 +1,8 @@
-HELP.md
-mvnw.cmd
-mvnw
+.idea
+target
 library-event-producer/.idea
 library-event-producer/target
+library-event-consumer/.idea
+library-event-consumer/target
+library-event-consumer/.idea
+library-event-consumer/target
